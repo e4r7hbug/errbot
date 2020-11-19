@@ -1,0 +1,15 @@
+*.ini
+*.rst
+.*
+
+!README.rst
+
+CHANGES*
+!CHANGES.rst
+
+COPYING
+Dockerfile
+gpl*.txt
+
+docs/
+tests/
